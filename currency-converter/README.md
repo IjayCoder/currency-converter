@@ -13,7 +13,7 @@ Backend: Render
 
 Frontend: Firebase Hosting
 
-/01
+/currency-converter
 ├── back/ # REST API with Express
 │ ├── src/
 │ ├── .env
@@ -45,6 +45,6 @@ Modern, responsive UI (ShadCN + Tailwind)
 👤 Author
 Sonagnon Yaji NONFON
 
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: https://www.linkedin.com/in/yaji-nonfon-7185a12a9
 
-GitHub: [Your GitHub Repo URL]
+GitHub: https://github.com/IjayCoder
